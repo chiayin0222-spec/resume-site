@@ -1,0 +1,1 @@
+之後每次重要討論，請自動整理並追加到 docs/conversation_notes.md
